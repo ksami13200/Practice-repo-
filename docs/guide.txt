@@ -1,3 +1,4 @@
 Documentation
 installation steps
 usage examples
+create approval rule to merge
